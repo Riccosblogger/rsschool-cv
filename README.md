@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://riccosblogger.github.io/rsschool-cv/cv
