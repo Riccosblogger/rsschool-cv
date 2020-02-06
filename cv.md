@@ -20,3 +20,20 @@
 
 ## EXPERIENCE
 ##### When i was getting education, I made both front-end and back-end sites.
+
+## EDUCATION
+### Educational establishment
+
+#### 1. Vitebsk State Technological University
+  -  ##### The faculty of Mechanical Engineering
+  -  ##### Specialty: Technology and equipment for machine building
+  -  ##### Form of study: full-time
+  -  ##### Graduate (specialist)
+  -  ##### Year of release - 1999
+
+#### 2. Vitebsk State University
+  -  ##### The faculty of Continuing Education and Personnel Retraining
+  -  ##### TSpecialty: Information Systems Software
+  -  ##### TForm of study: evening
+  -  ##### TGraduate (specialist)
+  -  ##### TYear of release - 2020 
