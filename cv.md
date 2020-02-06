@@ -37,3 +37,6 @@
   -  ##### TForm of study: evening
   -  ##### TGraduate (specialist)
   -  ##### TYear of release - 2020 
+
+## ENGLISH LEVEL
+##### Elementary.
