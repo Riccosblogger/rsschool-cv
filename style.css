@@ -1,0 +1,41 @@
+body {
+    background: url(https://donaldold.com/wp-content/uploads/2014/01/background-light-blue.jpg);
+    background-color: #d5e8f6;
+    background-size: cover;
+}
+
+div.col-xl-3,
+div.col-xl-4 {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+.header {
+    padding: 30px;
+}
+
+
+img {
+    border: 1px solid #757474;
+    -webkit-box-shadow: 6px 6px 7px 0px rgba(184,178,184,0.59);
+    -moz-box-shadow: 6px 6px 7px 0px rgba(184,178,184,0.59);
+    box-shadow: 6px 6px 7px 0px rgba(184,178,184,0.59);
+}
+
+p {
+    padding-left: 20px;
+}
+
+section {
+    border-bottom: 2px solid #cccccc;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 5px;
+    text-align: center;
+}
