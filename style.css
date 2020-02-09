@@ -2,20 +2,29 @@ body {
     background: url(https://donaldold.com/wp-content/uploads/2014/01/background-light-blue.jpg);
     background-color: #d5e8f6;
     background-size: cover;
+    font-family: 'Roboto', sans-serif;
+
 }
 
-div.col-xl-3,
-div.col-xl-4 {
-    margin: 0;
-    padding: 0;
+h1 {
+    font-size: 28px;
 }
 
 .container {
     background-color: #ffffff;
+    margin: 0 auto;
+    padding: 0 20px;
+    width: 50%;
 }
 
 .header {
+    display: flex;
     padding: 30px;
+    vertical-align: top;
+}
+
+.col {
+    width: 35%;
 }
 
 
