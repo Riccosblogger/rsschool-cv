@@ -23,10 +23,10 @@ h1 {
     vertical-align: top;
 }
 
-.col {
+.header__photo,
+.header__info {
     width: 35%;
 }
-
 
 img {
     border: 1px solid #757474;
